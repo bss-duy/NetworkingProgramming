@@ -1,0 +1,6 @@
+framework module Pods_NetworkingProgramming {
+  umbrella header "Pods-NetworkingProgramming-umbrella.h"
+
+  export *
+  module * { export * }
+}

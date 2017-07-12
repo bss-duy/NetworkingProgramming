@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.5.0)
+  - AlamofireActivityLogger (2.3.0):
+    - Alamofire (~> 4.2)
+  - NVActivityIndicatorView (3.6.1)
+  - ObjectMapper (2.2.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireActivityLogger
+  - NVActivityIndicatorView
+  - ObjectMapper
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AlamofireActivityLogger: a4a4b897a179c515e083a01f93b1a834f79d7091
+  NVActivityIndicatorView: 9f52a7f84bf5c6a798722c450fe3c198e01c56ed
+  ObjectMapper: 65abcfd9a61cf7396cbd14a4fb22fddfcc46577e
+
+PODFILE CHECKSUM: dd9a3ca630bccccd1edc79bf37eb626de91d459d
+
+COCOAPODS: 1.2.1
